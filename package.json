@@ -1,0 +1,22 @@
+{
+  "name": "test-hari3",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosiazwan/refactory2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yosiazwan/refactory2/issues"
+  },
+  "homepage": "https://github.com/yosiazwan/refactory2#readme",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
